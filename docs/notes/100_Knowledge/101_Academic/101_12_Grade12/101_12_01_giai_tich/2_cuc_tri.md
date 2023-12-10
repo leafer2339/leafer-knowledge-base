@@ -34,6 +34,7 @@ Tạo mới vào lúc 21:55:03 vào Ngày 12 tháng 06 năm 2023
 
 Chứng minh?: Xét $f(x)$ có cực đại tại $x_0$, cực tiểu chứng minh tương tự
 Do $f(x)$ có đạo hàm tạo $x_0$ nên
+
 $$f'(x_0) = f'({x_0}^+) = f'({x_0}^-)$$
 
 $$f'({x_0}^+) = \lim_{\Delta x \rightarrow 0^+}{\frac{f(x_0 + \Delta x ) - f(x_0)}{\Delta x}}$$
@@ -42,11 +43,13 @@ Do $f(x)$ có cực đại tại $x_0$ nên $f(x_0 + \Delta x) < f(x_0)$, từ �
 $$\frac{f(x_0 + \Delta x ) - f(x_0)}{\Delta x} < 0$$ với $\Delta x >0$
 
 Ta có:
+
 $$f'({x_0}^+) = \lim_{\Delta x \rightarrow 0}{\frac{f(x_0 + \Delta x ) - f(x_0)}{\Delta x}} \le 0$$
 
 $$f'({x_0}^-) = \lim_{\Delta x \rightarrow 0^-}{\frac{f(x_0 + \Delta x ) - f(x_0)}{\Delta x}}$$
 
 Do $f(x)$ có cực đại tại $x_0$ nên $f(x_0 + \Delta x) < f(x_0)$, từ đó
+
 $$\frac{f(x_0 + \Delta x ) - f(x_0)}{\Delta x} > 0$$ với $\Delta x >0$
 
 $$f'({x_0}^+) = \lim_{\Delta x \rightarrow 0}{\frac{f(x_0 + \Delta x ) - f(x_0)}{\Delta x}} \ge 0$$
