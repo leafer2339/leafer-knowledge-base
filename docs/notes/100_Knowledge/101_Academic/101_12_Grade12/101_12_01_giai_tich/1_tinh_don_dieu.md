@@ -18,9 +18,13 @@ Môn: [Giải tích 12](101_12_01_giai_tich.md)
 
 >[!formula] Định nghĩa
 >Hàm số $y = f(x)$ **đồng biến** trên K nếu với mọi cặp $x_1,x_2$ thuộc K mà $x_1<x_2$ thì $f(x_1)<f(x_2)$
+>
 >$$x_1<x_2 \Rightarrow f(x_1)<f(x_2)$$
+>
 >Hàm số $y = f(x)$ **nghịch biến** trên K nếu với mọi cặp $x_1,x_2$ thuộc K mà $x_1<x_2$ thì $f(x_1)>f(x_2)$
+>
 >$$x_1<x_2 \Rightarrow f(x_1)>f(x_2)$$
+>
 
 Một hàm số đồng biến hoặc nghịch biến trên K được gọi là **đơn điệu** trên K.
 
@@ -41,6 +45,6 @@ B3: Lập bảng xét dấu của $f'(x)$ trên các khoảng, rồi kết luậ
 >[!abstract] Nhật kí chỉnh sửa
 >Tạo mới vào 09:02 ngày 10-07-2023
 
-- [Bài sau](2_cuc_tri.md)
+- [Bài sau](./2_cuc_tri.md)
 
 
