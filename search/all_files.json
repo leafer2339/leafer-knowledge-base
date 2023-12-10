@@ -1,5 +1,11 @@
 [
     {
+        "src_uri": "index.md",
+        "dest_uri": "./",
+        "name": "index",
+        "url": "./"
+    },
+    {
         "src_uri": "tags.md",
         "dest_uri": "tags/",
         "name": "tags",

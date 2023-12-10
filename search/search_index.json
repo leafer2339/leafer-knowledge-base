@@ -1,1 +1,1 @@
-{"config": {"lang": ["en"], "separator": "[\\s\\-]+", "pipeline": ["stopWordFilter"]}, "docs": []}
+{"config": {"lang": ["en"], "separator": "[\\s\\-]+", "pipeline": ["stopWordFilter"]}, "docs": [{"location": "", "title": "Home", "text": ""}, {"location": "#knowledge-base", "title": "Knowledge base", "text": "<p>Ch\u00e0o m\u1eebng \u0111\u1ebfn kho ki\u1ebfn th\u1ee9c c\u1ee7a Leafer</p>"}]}
