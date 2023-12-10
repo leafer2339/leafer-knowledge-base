@@ -1,0 +1,320 @@
+[
+    {
+        "src_uri": "tags.md",
+        "dest_uri": "tags/",
+        "name": "tags",
+        "url": "tags/"
+    },
+    {
+        "src_uri": "assets/css/.push",
+        "dest_uri": "assets/css/.push",
+        "name": ".push",
+        "url": "assets/css/.push"
+    },
+    {
+        "src_uri": "assets/css/admonition.css",
+        "dest_uri": "assets/css/admonition.css",
+        "name": "admonition",
+        "url": "assets/css/admonition.css"
+    },
+    {
+        "src_uri": "assets/css/custom_attributes.css",
+        "dest_uri": "assets/css/custom_attributes.css",
+        "name": "custom_attributes",
+        "url": "assets/css/custom_attributes.css"
+    },
+    {
+        "src_uri": "assets/css/customization.css",
+        "dest_uri": "assets/css/customization.css",
+        "name": "customization",
+        "url": "assets/css/customization.css"
+    },
+    {
+        "src_uri": "assets/img/.push",
+        "dest_uri": "assets/img/.push",
+        "name": ".push",
+        "url": "assets/img/.push"
+    },
+    {
+        "src_uri": "assets/js/.push",
+        "dest_uri": "assets/js/.push",
+        "name": ".push",
+        "url": "assets/js/.push"
+    },
+    {
+        "src_uri": "assets/meta/.push",
+        "dest_uri": "assets/meta/.push",
+        "name": ".push",
+        "url": "assets/meta/.push"
+    },
+    {
+        "src_uri": "hidden/.pages",
+        "dest_uri": "hidden/.pages",
+        "name": ".pages",
+        "url": "hidden/.pages"
+    },
+    {
+        "src_uri": "notes/.pages",
+        "dest_uri": "notes/.pages",
+        "name": ".pages",
+        "url": "notes/.pages"
+    },
+    {
+        "src_uri": "assets/images/favicon.png",
+        "dest_uri": "assets/images/favicon.png",
+        "name": "favicon",
+        "url": "assets/images/favicon.png"
+    },
+    {
+        "src_uri": "assets/javascripts/bundle.d7c377c4.min.js",
+        "dest_uri": "assets/javascripts/bundle.d7c377c4.min.js",
+        "name": "bundle.d7c377c4.min",
+        "url": "assets/javascripts/bundle.d7c377c4.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/bundle.d7c377c4.min.js.map",
+        "dest_uri": "assets/javascripts/bundle.d7c377c4.min.js.map",
+        "name": "bundle.d7c377c4.min.js",
+        "url": "assets/javascripts/bundle.d7c377c4.min.js.map"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.ar.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.ar.min.js",
+        "name": "lunr.ar.min",
+        "url": "assets/javascripts/lunr/min/lunr.ar.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.da.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.da.min.js",
+        "name": "lunr.da.min",
+        "url": "assets/javascripts/lunr/min/lunr.da.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.de.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.de.min.js",
+        "name": "lunr.de.min",
+        "url": "assets/javascripts/lunr/min/lunr.de.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.du.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.du.min.js",
+        "name": "lunr.du.min",
+        "url": "assets/javascripts/lunr/min/lunr.du.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.el.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.el.min.js",
+        "name": "lunr.el.min",
+        "url": "assets/javascripts/lunr/min/lunr.el.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.es.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.es.min.js",
+        "name": "lunr.es.min",
+        "url": "assets/javascripts/lunr/min/lunr.es.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.fi.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.fi.min.js",
+        "name": "lunr.fi.min",
+        "url": "assets/javascripts/lunr/min/lunr.fi.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.fr.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.fr.min.js",
+        "name": "lunr.fr.min",
+        "url": "assets/javascripts/lunr/min/lunr.fr.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.he.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.he.min.js",
+        "name": "lunr.he.min",
+        "url": "assets/javascripts/lunr/min/lunr.he.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.hi.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.hi.min.js",
+        "name": "lunr.hi.min",
+        "url": "assets/javascripts/lunr/min/lunr.hi.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.hu.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.hu.min.js",
+        "name": "lunr.hu.min",
+        "url": "assets/javascripts/lunr/min/lunr.hu.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.hy.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.hy.min.js",
+        "name": "lunr.hy.min",
+        "url": "assets/javascripts/lunr/min/lunr.hy.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.it.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.it.min.js",
+        "name": "lunr.it.min",
+        "url": "assets/javascripts/lunr/min/lunr.it.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.ja.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.ja.min.js",
+        "name": "lunr.ja.min",
+        "url": "assets/javascripts/lunr/min/lunr.ja.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.jp.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.jp.min.js",
+        "name": "lunr.jp.min",
+        "url": "assets/javascripts/lunr/min/lunr.jp.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.kn.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.kn.min.js",
+        "name": "lunr.kn.min",
+        "url": "assets/javascripts/lunr/min/lunr.kn.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.ko.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.ko.min.js",
+        "name": "lunr.ko.min",
+        "url": "assets/javascripts/lunr/min/lunr.ko.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.multi.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.multi.min.js",
+        "name": "lunr.multi.min",
+        "url": "assets/javascripts/lunr/min/lunr.multi.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.nl.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.nl.min.js",
+        "name": "lunr.nl.min",
+        "url": "assets/javascripts/lunr/min/lunr.nl.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.no.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.no.min.js",
+        "name": "lunr.no.min",
+        "url": "assets/javascripts/lunr/min/lunr.no.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.pt.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.pt.min.js",
+        "name": "lunr.pt.min",
+        "url": "assets/javascripts/lunr/min/lunr.pt.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.ro.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.ro.min.js",
+        "name": "lunr.ro.min",
+        "url": "assets/javascripts/lunr/min/lunr.ro.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.ru.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.ru.min.js",
+        "name": "lunr.ru.min",
+        "url": "assets/javascripts/lunr/min/lunr.ru.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.sa.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.sa.min.js",
+        "name": "lunr.sa.min",
+        "url": "assets/javascripts/lunr/min/lunr.sa.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.stemmer.support.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.stemmer.support.min.js",
+        "name": "lunr.stemmer.support.min",
+        "url": "assets/javascripts/lunr/min/lunr.stemmer.support.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.sv.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.sv.min.js",
+        "name": "lunr.sv.min",
+        "url": "assets/javascripts/lunr/min/lunr.sv.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.ta.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.ta.min.js",
+        "name": "lunr.ta.min",
+        "url": "assets/javascripts/lunr/min/lunr.ta.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.te.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.te.min.js",
+        "name": "lunr.te.min",
+        "url": "assets/javascripts/lunr/min/lunr.te.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.th.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.th.min.js",
+        "name": "lunr.th.min",
+        "url": "assets/javascripts/lunr/min/lunr.th.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.tr.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.tr.min.js",
+        "name": "lunr.tr.min",
+        "url": "assets/javascripts/lunr/min/lunr.tr.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.vi.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.vi.min.js",
+        "name": "lunr.vi.min",
+        "url": "assets/javascripts/lunr/min/lunr.vi.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/min/lunr.zh.min.js",
+        "dest_uri": "assets/javascripts/lunr/min/lunr.zh.min.js",
+        "name": "lunr.zh.min",
+        "url": "assets/javascripts/lunr/min/lunr.zh.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/tinyseg.js",
+        "dest_uri": "assets/javascripts/lunr/tinyseg.js",
+        "name": "tinyseg",
+        "url": "assets/javascripts/lunr/tinyseg.js"
+    },
+    {
+        "src_uri": "assets/javascripts/lunr/wordcut.js",
+        "dest_uri": "assets/javascripts/lunr/wordcut.js",
+        "name": "wordcut",
+        "url": "assets/javascripts/lunr/wordcut.js"
+    },
+    {
+        "src_uri": "assets/javascripts/workers/search.f886a092.min.js",
+        "dest_uri": "assets/javascripts/workers/search.f886a092.min.js",
+        "name": "search.f886a092.min",
+        "url": "assets/javascripts/workers/search.f886a092.min.js"
+    },
+    {
+        "src_uri": "assets/javascripts/workers/search.f886a092.min.js.map",
+        "dest_uri": "assets/javascripts/workers/search.f886a092.min.js.map",
+        "name": "search.f886a092.min.js",
+        "url": "assets/javascripts/workers/search.f886a092.min.js.map"
+    },
+    {
+        "src_uri": "assets/stylesheets/main.45e1311d.min.css",
+        "dest_uri": "assets/stylesheets/main.45e1311d.min.css",
+        "name": "main.45e1311d.min",
+        "url": "assets/stylesheets/main.45e1311d.min.css"
+    },
+    {
+        "src_uri": "assets/stylesheets/main.45e1311d.min.css.map",
+        "dest_uri": "assets/stylesheets/main.45e1311d.min.css.map",
+        "name": "main.45e1311d.min.css",
+        "url": "assets/stylesheets/main.45e1311d.min.css.map"
+    },
+    {
+        "src_uri": "assets/stylesheets/palette.06af60db.min.css",
+        "dest_uri": "assets/stylesheets/palette.06af60db.min.css",
+        "name": "palette.06af60db.min",
+        "url": "assets/stylesheets/palette.06af60db.min.css"
+    },
+    {
+        "src_uri": "assets/stylesheets/palette.06af60db.min.css.map",
+        "dest_uri": "assets/stylesheets/palette.06af60db.min.css.map",
+        "name": "palette.06af60db.min.css",
+        "url": "assets/stylesheets/palette.06af60db.min.css.map"
+    }
+]
