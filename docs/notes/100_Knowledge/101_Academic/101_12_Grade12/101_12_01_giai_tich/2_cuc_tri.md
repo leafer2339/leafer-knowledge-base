@@ -15,7 +15,7 @@ Tạo mới vào lúc 21:55:03 vào Ngày 12 tháng 06 năm 2023
 # Cực trị của hàm số
 
 >[!note] Tổng quan
->Môn: [Giải tích 12](101_12_01_giai_tich.md)
+>Môn: [Giải tích 12](./101_12_01_giai_tich.md)
 
 ## Cực trị là cái gì
 >[!formula] Định nghĩa cực trị
@@ -40,7 +40,10 @@ $$f'(x_0) = f'({x_0}^+) = f'({x_0}^-)$$
 $$f'({x_0}^+) = \lim_{\Delta x \rightarrow 0^+}{\frac{f(x_0 + \Delta x ) - f(x_0)}{\Delta x}}$$
 
 Do $f(x)$ có cực đại tại $x_0$ nên $f(x_0 + \Delta x) < f(x_0)$, từ đó
-$$\frac{f(x_0 + \Delta x ) - f(x_0)}{\Delta x} < 0$$ với $\Delta x >0$
+
+$$\frac{f(x_0 + \Delta x ) - f(x_0)}{\Delta x} < 0$$ 
+
+với $\Delta x >0$
 
 Ta có:
 
@@ -66,7 +69,7 @@ $$f'({x_0}^+) = \lim_{\Delta x \rightarrow 0}{\frac{f(x_0 + \Delta x ) - f(x_0)}
 ## Quy tắc
 
 
-- [Bài sau](3_gtnn_gtln.md)
+- [Bài sau](./3_gtnn_gtln.md)
 
 
 - [Bài trước](./1_tinh_don_dieu.md)
